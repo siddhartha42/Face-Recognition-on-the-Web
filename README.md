@@ -21,6 +21,6 @@ pip install -r requirements.txt
 * Download the arcface_weights from this link (https://drive.google.com/file/d/1cnQF0pnWFsR-73pcGB0N59I42dlq2t1w/view?usp=sharing) and save it in the same folder. It contains the weights of the pretrained arcface model.
 * Create folder for test images and save them and assign path `test_folder` variable
 * Run the Jupyter NoteBook
-* The Output will be displayed as below
-<img src="https://github.com/Jnaneshrompilli/CS6350-Face_Recognition/assets/79641410/76c26eec-29aa-426f-88e9-c75672544968.png" width="800">
+
+## Refer to the project report for more details on the algorithm used
 
